@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("master merge");
         System.out.println("hot-fix merge");
         System.out.println("push");
+        System.out.println("push");
     }
 }
